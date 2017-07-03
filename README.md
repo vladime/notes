@@ -3,6 +3,8 @@
   * [Новые русские](#Новые-русские)
   * [Новые английские](#Новые-английские)
   * [Новые немецкие](#Новые-немецкие)
+  
+* [Чай](#Чаи)
 
 ## Словари
 ### Новые русские
@@ -16,3 +18,14 @@
 
 ### Новые немецкие
 **[`^ наверх`](#)**
+
+## Чаи
+**[`^ наверх`](#)**
+1. [**First Flush Darjeeling**](http://www.dallmayr-versand.de/epages/Dallmayr.sf/de_DE/?ObjectPath=/Shops/Dallmayr/Products/115081)
+2. [**Alpenkräuter**](http://www.dallmayr-versand.de/epages/Dallmayr.sf/de_DE/?ObjectPath=/Shops/Dallmayr/Products/115109)
+---
+1. [*Pfefferminze Bio*](http://www.dallmayr-versand.de/epages/Dallmayr.sf/de_DE/?ObjectPath=/Shops/Dallmayr/Products/115088)
+2. [*Mango Maracuja*](https://www.dallmayr.com/de/tee/)
+---
+1. [Japan Sencha](http://www.dallmayr-versand.de/epages/Dallmayr.sf/de_DE/?ObjectPath=/Shops/Dallmayr/Products/6146)
+2. [Kräutertee Have a nice Day](https://www.dallmayr.com/de/tee/)
