@@ -21,8 +21,9 @@
 
 ## Чаи
 **[`^ наверх`](#)**
-1. [**First Flush Darjeeling**](http://www.dallmayr-versand.de/epages/Dallmayr.sf/de_DE/?ObjectPath=/Shops/Dallmayr/Products/115081)
-2. [**Alpenkräuter**](http://www.dallmayr-versand.de/epages/Dallmayr.sf/de_DE/?ObjectPath=/Shops/Dallmayr/Products/115109)
+1. [**Masala Chai**](http://www.dallmayr-versand.de/epages/Dallmayr.sf/de_DE/?ObjectPath=/Shops/Dallmayr/Products/115139)
+2. [**First Flush Darjeeling**](http://www.dallmayr-versand.de/epages/Dallmayr.sf/de_DE/?ObjectPath=/Shops/Dallmayr/Products/115081)
+3. [**Alpenkräuter**](http://www.dallmayr-versand.de/epages/Dallmayr.sf/de_DE/?ObjectPath=/Shops/Dallmayr/Products/115109)
 ---
 1. [*Pfefferminze Bio*](http://www.dallmayr-versand.de/epages/Dallmayr.sf/de_DE/?ObjectPath=/Shops/Dallmayr/Products/115088)
 2. [*Mango Maracuja*](https://www.dallmayr.com/de/tee/)
