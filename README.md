@@ -15,6 +15,7 @@
 
 ### Новые английские
 **[`^ наверх`](#)**
+* [contort](http://dictionary.cambridge.org/dictionary/english-russian/contort) - искажать(ся);
 
 ### Новые немецкие
 **[`^ наверх`](#)**
